@@ -1,12 +1,11 @@
 {
-  "updatedAt": "2026-07-02T16:12:02.376Z",
+  "updatedAt": "2026-07-02T18:13:20.077Z",
   "bundles": [
     {
       "platform": "android",
-      "version": "1.0.111",
-      "url": "https://github.com/asammitte/climbing-guide-ota/releases/download/ota-v1.0.111/bundle-1.0.111.zip",
-      "checksum": "dc473b94bcf5b558e6f26d127b4c52710eebf0008d2586a995dcb26b81f7bb03",
-      "sessionKey": "U4p3obMZuR5dYjo9Ft+TDQ==:nY8OXz3CY3BL9tRWo0FCFoLJ5HmJdUBkme7rBEAJ/5rzUzTjpFoc+seue/jC6AwvHeeiHcU7MEdIvWLvg8FqXjxOuW7cNe068Lysj0M/ME0Tu2oztEXdgy8g5zYeePSo+nAkWjivKEP/zw9SVxXGMNd0BJ7zyI6qRK7cd+nFbut3NRWCFfzBPtHvCB+1HcR30gQwG4z88XitDNxgxITHcQxqYxr+/B7FjAMMNKJ8RVksTd4gZwDg/yGgnESL0CJuVe4o2R/qk38u80c9WF6NTs+fcDSr+kDrmwU7RFNzeDnQFmK9skuwXN744mzwrjcxuhk11V5Bya0HP3uk2pCHRw==",
+      "version": "1.0.112",
+      "url": "https://github.com/asammitte/climbing-guide-ota/releases/download/ota-v1.0.112/bundle-1.0.112.zip",
+      "checksum": "fef880b54959b2688222c2c08eec69c5d4a2e60b50748800a676caea79c2a6da",
       "nativeVersion": "1.0",
       "minNativeVersion": "1.0",
       "notes": "",
@@ -14,10 +13,9 @@
     },
     {
       "platform": "ios",
-      "version": "1.0.111",
-      "url": "https://github.com/asammitte/climbing-guide-ota/releases/download/ota-v1.0.111/bundle-1.0.111.zip",
-      "checksum": "dc473b94bcf5b558e6f26d127b4c52710eebf0008d2586a995dcb26b81f7bb03",
-      "sessionKey": "U4p3obMZuR5dYjo9Ft+TDQ==:nY8OXz3CY3BL9tRWo0FCFoLJ5HmJdUBkme7rBEAJ/5rzUzTjpFoc+seue/jC6AwvHeeiHcU7MEdIvWLvg8FqXjxOuW7cNe068Lysj0M/ME0Tu2oztEXdgy8g5zYeePSo+nAkWjivKEP/zw9SVxXGMNd0BJ7zyI6qRK7cd+nFbut3NRWCFfzBPtHvCB+1HcR30gQwG4z88XitDNxgxITHcQxqYxr+/B7FjAMMNKJ8RVksTd4gZwDg/yGgnESL0CJuVe4o2R/qk38u80c9WF6NTs+fcDSr+kDrmwU7RFNzeDnQFmK9skuwXN744mzwrjcxuhk11V5Bya0HP3uk2pCHRw==",
+      "version": "1.0.112",
+      "url": "https://github.com/asammitte/climbing-guide-ota/releases/download/ota-v1.0.112/bundle-1.0.112.zip",
+      "checksum": "fef880b54959b2688222c2c08eec69c5d4a2e60b50748800a676caea79c2a6da",
       "nativeVersion": "1.0",
       "minNativeVersion": "1.0",
       "notes": "",
