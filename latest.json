@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-02T18:59:42.995Z",
+  "updatedAt": "2026-07-02T19:01:03.196Z",
   "bundles": [
     {
       "platform": "android",
-      "version": "1.0.116",
-      "url": "https://github.com/asammitte/climbing-guide-ota/releases/download/ota-v1.0.116/bundle-1.0.116.zip",
-      "checksum": "24d8e561517612986dd9e5c32e363223fe5de86ccb4f83c16254cd710ad46c73",
+      "version": "1.0.117",
+      "url": "https://github.com/asammitte/climbing-guide-ota/releases/download/ota-v1.0.117/bundle-1.0.117.zip",
+      "checksum": "0c7584ba296ac152c337e4e6a870798ee9b8cf46c29bac8560441fee2d0f6fbd",
       "nativeVersion": "1.0",
       "minNativeVersion": "1.0",
       "notes": "",
@@ -13,9 +13,9 @@
     },
     {
       "platform": "ios",
-      "version": "1.0.116",
-      "url": "https://github.com/asammitte/climbing-guide-ota/releases/download/ota-v1.0.116/bundle-1.0.116.zip",
-      "checksum": "24d8e561517612986dd9e5c32e363223fe5de86ccb4f83c16254cd710ad46c73",
+      "version": "1.0.117",
+      "url": "https://github.com/asammitte/climbing-guide-ota/releases/download/ota-v1.0.117/bundle-1.0.117.zip",
+      "checksum": "0c7584ba296ac152c337e4e6a870798ee9b8cf46c29bac8560441fee2d0f6fbd",
       "nativeVersion": "1.0",
       "minNativeVersion": "1.0",
       "notes": "",
