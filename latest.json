@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-02T15:59:23.481Z",
+  "updatedAt": "2026-07-02T16:12:02.376Z",
   "bundles": [
     {
       "platform": "android",
-      "version": "1.0.110",
-      "url": "https://github.com/asammitte/climbing-guide-ota/releases/download/ota-v1.0.110/bundle-1.0.110.zip",
-      "checksum": "92cfa46268eeda2dbbf2dd7139a99a27de00de1249688ededc390b319da7067899d9a752ce1a993fbb888fe9b4ba2541a5d73c69d58518f3f703618894c2fa40916c7acd46e8a067f2551418c51d5c9363cdb0298e0a6c7d73a8e94188cb6acfcaab937c551d29719386ddf0fd692b39f41bc51f85c319fb7fc783eb5f3725d9e4b0d25c7901d3f400e552a32d43724b2f8ee58cafe91014708d378b4ca778fa1c806bb1beab187998651b08df7ab7b7f6e6016c8db495497cdf0c25728f30f09be01f879820c2f8592082a66ed6bfeff0cb8acedeaf91a98145594445d4a8fe9e3ade2997933ac9a164a02aec30d6ba2e1f8b2cfdea7a3575635000b08c9d62",
-      "sessionKey": "45GVi5ylwH6PPg/3WemzGQ==:iLC3QyoOAJ5ew4qu7UM7sRYJNQUzVbWhaCoiw6xEXngU31QY3eodive73/UNSUQN0tpyqcFFGXJxey4rVw7nZs2E9SvmbjbL+5rob06d/mjMH1eScm8JfifzLhueeqLXr0IAH+ZaEAEZhdMlLfBvQm6oA+0XC1+Ybt+TZoc0VHPP2jgzgBMoqhGHPHAXUL07MWF4Nxuz3k29mzaPq7WsQoVOUUfEKLECRthw9Aqp2UVkdeadMYXBhhrKW6PTxcbCCJwAlfBGeSGk0ZA4rnaRrvAxgdNGXzh7h/0Hj9YCcrvP3NfT8jI6mk7oFskXPwylIPaLOro2moE94zQlLP9Ksg==",
+      "version": "1.0.111",
+      "url": "https://github.com/asammitte/climbing-guide-ota/releases/download/ota-v1.0.111/bundle-1.0.111.zip",
+      "checksum": "dc473b94bcf5b558e6f26d127b4c52710eebf0008d2586a995dcb26b81f7bb03",
+      "sessionKey": "U4p3obMZuR5dYjo9Ft+TDQ==:nY8OXz3CY3BL9tRWo0FCFoLJ5HmJdUBkme7rBEAJ/5rzUzTjpFoc+seue/jC6AwvHeeiHcU7MEdIvWLvg8FqXjxOuW7cNe068Lysj0M/ME0Tu2oztEXdgy8g5zYeePSo+nAkWjivKEP/zw9SVxXGMNd0BJ7zyI6qRK7cd+nFbut3NRWCFfzBPtHvCB+1HcR30gQwG4z88XitDNxgxITHcQxqYxr+/B7FjAMMNKJ8RVksTd4gZwDg/yGgnESL0CJuVe4o2R/qk38u80c9WF6NTs+fcDSr+kDrmwU7RFNzeDnQFmK9skuwXN744mzwrjcxuhk11V5Bya0HP3uk2pCHRw==",
       "nativeVersion": "1.0",
       "minNativeVersion": "1.0",
       "notes": "",
@@ -14,10 +14,10 @@
     },
     {
       "platform": "ios",
-      "version": "1.0.110",
-      "url": "https://github.com/asammitte/climbing-guide-ota/releases/download/ota-v1.0.110/bundle-1.0.110.zip",
-      "checksum": "92cfa46268eeda2dbbf2dd7139a99a27de00de1249688ededc390b319da7067899d9a752ce1a993fbb888fe9b4ba2541a5d73c69d58518f3f703618894c2fa40916c7acd46e8a067f2551418c51d5c9363cdb0298e0a6c7d73a8e94188cb6acfcaab937c551d29719386ddf0fd692b39f41bc51f85c319fb7fc783eb5f3725d9e4b0d25c7901d3f400e552a32d43724b2f8ee58cafe91014708d378b4ca778fa1c806bb1beab187998651b08df7ab7b7f6e6016c8db495497cdf0c25728f30f09be01f879820c2f8592082a66ed6bfeff0cb8acedeaf91a98145594445d4a8fe9e3ade2997933ac9a164a02aec30d6ba2e1f8b2cfdea7a3575635000b08c9d62",
-      "sessionKey": "45GVi5ylwH6PPg/3WemzGQ==:iLC3QyoOAJ5ew4qu7UM7sRYJNQUzVbWhaCoiw6xEXngU31QY3eodive73/UNSUQN0tpyqcFFGXJxey4rVw7nZs2E9SvmbjbL+5rob06d/mjMH1eScm8JfifzLhueeqLXr0IAH+ZaEAEZhdMlLfBvQm6oA+0XC1+Ybt+TZoc0VHPP2jgzgBMoqhGHPHAXUL07MWF4Nxuz3k29mzaPq7WsQoVOUUfEKLECRthw9Aqp2UVkdeadMYXBhhrKW6PTxcbCCJwAlfBGeSGk0ZA4rnaRrvAxgdNGXzh7h/0Hj9YCcrvP3NfT8jI6mk7oFskXPwylIPaLOro2moE94zQlLP9Ksg==",
+      "version": "1.0.111",
+      "url": "https://github.com/asammitte/climbing-guide-ota/releases/download/ota-v1.0.111/bundle-1.0.111.zip",
+      "checksum": "dc473b94bcf5b558e6f26d127b4c52710eebf0008d2586a995dcb26b81f7bb03",
+      "sessionKey": "U4p3obMZuR5dYjo9Ft+TDQ==:nY8OXz3CY3BL9tRWo0FCFoLJ5HmJdUBkme7rBEAJ/5rzUzTjpFoc+seue/jC6AwvHeeiHcU7MEdIvWLvg8FqXjxOuW7cNe068Lysj0M/ME0Tu2oztEXdgy8g5zYeePSo+nAkWjivKEP/zw9SVxXGMNd0BJ7zyI6qRK7cd+nFbut3NRWCFfzBPtHvCB+1HcR30gQwG4z88XitDNxgxITHcQxqYxr+/B7FjAMMNKJ8RVksTd4gZwDg/yGgnESL0CJuVe4o2R/qk38u80c9WF6NTs+fcDSr+kDrmwU7RFNzeDnQFmK9skuwXN744mzwrjcxuhk11V5Bya0HP3uk2pCHRw==",
       "nativeVersion": "1.0",
       "minNativeVersion": "1.0",
       "notes": "",
