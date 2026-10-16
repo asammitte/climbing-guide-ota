@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-16T11:01:20.326Z",
+  "updatedAt": "2026-10-16T11:11:09.681Z",
   "bundles": [
     {
       "platform": "android",
-      "version": "1.0.147",
-      "url": "https://github.com/asammitte/climbing-guide-ota/releases/download/ota-v1.0.147/bundle-1.0.147.zip",
-      "checksum": "6d7050f2b85d170aa4f4313441f67fddeb0bbebe29da5021dd82b0e28c8849d967c45514d92b1dcad54c4210ed6ba789a2cff7a6c4299e1a310b39dfc8448e0788e3f33ff805e8bb41033bf2b559c9e3d7816912fabf02c79f256c3f322d73ffb1ac7b2395046f4ebafa01d1e90b306b07bec716e818cc01468f1f87a09030de239aa8308693fe79f6c8df31988a9915d2d22f21880f79939b30c6a8ffbfd4f14baabc03243bf029cd78a9642930a1ad94b11bf338b2538d5a3a6ada9f2a639070ed04132057550dd261d4e1573174ea48e9da74f7c84428e379ab019447352e84a2cab75b8bb7a6acc5ce312a235e178fa2a09c5000b1ed4be4bfebe2236ecc",
-      "sessionKey": "jBOmqMKuGBPbdAU7Gb31Hg==:Pc7lxWkZuNxLuvThFtoDnXhPaBfmi3fNXu+8W6cw7ygSrVzyBQBoPIGODWPDh6oEh+5M046AMybc5MCriJDe/FBJ6v/1J5+/p+KIOITVdAUEBB/vJlpES3h9EOvi9PJDHtmuyz7nNDpbZx5Yp5VttBSgldT6je3s1BSRVIcnAfE8VvSMKwGjC2fL0UXtLbfWQc6hWAHHRVrvVz0arHVymQiKr6bxGDLSphWkfo2+UoN+Twj8gm1cMWND3hVw6CRnu+SynhRq1ZmeXIPEvUlhgwRK3ZEz4+pCRv7D8g8Td7WveX2nLHg/IS+Euoo8mVdT8CkKeNTtFNZkQecgK5LYUg==",
+      "version": "1.0.148",
+      "url": "https://github.com/asammitte/climbing-guide-ota/releases/download/ota-v1.0.148/bundle-1.0.148.zip",
+      "checksum": "8d54ea70f8526eccabc16939de4e6e9f66d5013aeef6a9e084780561eb4d45480823e36b574d074b40417d9ff7f3e345be3b0e8ba115229ddfc12911990f3fcbe110286c0a4bf1b7ea88d3ce7b6b8b5c826d38c65233040dee8d6ffac5cab0948c50b94713240a87c6e5ceec6f9bfbe32e043b8c126878080863c0b9e04c3f516624cee5e4138368787001afe92e328d45937c4984493822d9cef4beee520ac5abf046cfbb06264f6cee54301010b3f45661fbc12dfa044c81a982928a645f7f70b2d18d6440f47afe2b26b76dd9e7410c2cb7028dea07391c087d239350907eb3c5e1e934a6f05bf2b8c98082ee01727476e237fce0c15ab365fcedb4f36996",
+      "sessionKey": "hDrEqqXla1SAiYKqdzfhLA==:XUaB5LGMwDIGajBJb6cRrK73RF3kW5yA9B6o7StLfo2wFOg5F0Y4zl3RXE4WhL8JDKkokILZpw55UvMwcelDqd0gCD5XIhUgsBSiH5TQqa0Sn2EPG6JxzuKCiPWEhj952vEKua1vdTRX6uCzIw39F6YYfUudRKpuqRsWAVDQFujmn7BgyK53ncNO8jVir8jG9MVNpwu1CF3t/2ZfqNu3Zm1kYj7OMucPknyq/Py2X/ks3W/bfO53eEQ4MxsNziTPgCsuW4i02vlb2AHJB34f06pQmA3d18TcITaumn7ISPh6LT6J9dqA7E+6GkJC9ewPN+l48O8kuhpFGrdPayj8vw==",
       "nativeVersion": "1.0.136",
       "minNativeVersion": "1.0.136",
       "notes": "",
@@ -14,10 +14,10 @@
     },
     {
       "platform": "ios",
-      "version": "1.0.147",
-      "url": "https://github.com/asammitte/climbing-guide-ota/releases/download/ota-v1.0.147/bundle-1.0.147.zip",
-      "checksum": "6d7050f2b85d170aa4f4313441f67fddeb0bbebe29da5021dd82b0e28c8849d967c45514d92b1dcad54c4210ed6ba789a2cff7a6c4299e1a310b39dfc8448e0788e3f33ff805e8bb41033bf2b559c9e3d7816912fabf02c79f256c3f322d73ffb1ac7b2395046f4ebafa01d1e90b306b07bec716e818cc01468f1f87a09030de239aa8308693fe79f6c8df31988a9915d2d22f21880f79939b30c6a8ffbfd4f14baabc03243bf029cd78a9642930a1ad94b11bf338b2538d5a3a6ada9f2a639070ed04132057550dd261d4e1573174ea48e9da74f7c84428e379ab019447352e84a2cab75b8bb7a6acc5ce312a235e178fa2a09c5000b1ed4be4bfebe2236ecc",
-      "sessionKey": "jBOmqMKuGBPbdAU7Gb31Hg==:Pc7lxWkZuNxLuvThFtoDnXhPaBfmi3fNXu+8W6cw7ygSrVzyBQBoPIGODWPDh6oEh+5M046AMybc5MCriJDe/FBJ6v/1J5+/p+KIOITVdAUEBB/vJlpES3h9EOvi9PJDHtmuyz7nNDpbZx5Yp5VttBSgldT6je3s1BSRVIcnAfE8VvSMKwGjC2fL0UXtLbfWQc6hWAHHRVrvVz0arHVymQiKr6bxGDLSphWkfo2+UoN+Twj8gm1cMWND3hVw6CRnu+SynhRq1ZmeXIPEvUlhgwRK3ZEz4+pCRv7D8g8Td7WveX2nLHg/IS+Euoo8mVdT8CkKeNTtFNZkQecgK5LYUg==",
+      "version": "1.0.148",
+      "url": "https://github.com/asammitte/climbing-guide-ota/releases/download/ota-v1.0.148/bundle-1.0.148.zip",
+      "checksum": "8d54ea70f8526eccabc16939de4e6e9f66d5013aeef6a9e084780561eb4d45480823e36b574d074b40417d9ff7f3e345be3b0e8ba115229ddfc12911990f3fcbe110286c0a4bf1b7ea88d3ce7b6b8b5c826d38c65233040dee8d6ffac5cab0948c50b94713240a87c6e5ceec6f9bfbe32e043b8c126878080863c0b9e04c3f516624cee5e4138368787001afe92e328d45937c4984493822d9cef4beee520ac5abf046cfbb06264f6cee54301010b3f45661fbc12dfa044c81a982928a645f7f70b2d18d6440f47afe2b26b76dd9e7410c2cb7028dea07391c087d239350907eb3c5e1e934a6f05bf2b8c98082ee01727476e237fce0c15ab365fcedb4f36996",
+      "sessionKey": "hDrEqqXla1SAiYKqdzfhLA==:XUaB5LGMwDIGajBJb6cRrK73RF3kW5yA9B6o7StLfo2wFOg5F0Y4zl3RXE4WhL8JDKkokILZpw55UvMwcelDqd0gCD5XIhUgsBSiH5TQqa0Sn2EPG6JxzuKCiPWEhj952vEKua1vdTRX6uCzIw39F6YYfUudRKpuqRsWAVDQFujmn7BgyK53ncNO8jVir8jG9MVNpwu1CF3t/2ZfqNu3Zm1kYj7OMucPknyq/Py2X/ks3W/bfO53eEQ4MxsNziTPgCsuW4i02vlb2AHJB34f06pQmA3d18TcITaumn7ISPh6LT6J9dqA7E+6GkJC9ewPN+l48O8kuhpFGrdPayj8vw==",
       "nativeVersion": "1.0",
       "minNativeVersion": "1.0",
       "notes": "",
