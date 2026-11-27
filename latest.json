@@ -26,9 +26,9 @@
   ],
   "native": {
     "android": {
-      "latestBuild": 12,
+      "latestBuild": 13,
       "minSupportedBuild": 0,
-      "announcedAt": "2026-11-19T15:12:33.560Z"
+      "announcedAt": "2026-11-27T08:29:23.485Z"
     }
   }
 }
